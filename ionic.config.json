@@ -1,0 +1,7 @@
+{
+  "name": "ionSlidingItems",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
